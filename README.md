@@ -1,2 +1,2 @@
 # SB-10.5Clustering
-Submission of 10.1 Exercise for Springboard
+Submission of 10.5 Exercise for Springboard
